@@ -577,6 +577,13 @@
       <arglist>(ValueType &amp;v) const noexcept(noexcept(JSONSerializer&lt; ValueType &gt;::from_json(std::declval&lt; const basic_json_t &amp; &gt;(), v)))</arglist>
     </member>
     <member kind="function">
+      <type>ValueType &amp;</type>
+      <name>get_to</name>
+      <anchorfile>classnlohmann_1_1basic__json_a8477b6e6219ddcb6a952447f12a681c5.html</anchorfile>
+      <anchor>a8477b6e6219ddcb6a952447f12a681c5</anchor>
+      <arglist>(ValueType &amp;v) const</arglist>
+    </member>
+    <member kind="function">
       <type>Array</type>
       <name>get_to</name>
       <anchorfile>classnlohmann_1_1basic__json_aaca828acdba11b390de87689ac18fd08.html</anchorfile>
@@ -968,6 +975,13 @@
       <anchor>a502e4020141ed42d55e5d1fd88b3e80f</anchor>
       <arglist>() const noexcept</arglist>
     </member>
+    <member kind="friend">
+      <type>friend void</type>
+      <name>swap</name>
+      <anchorfile>classnlohmann_1_1basic__json_aaf6b8df4217a909f318285bf231104fc.html</anchorfile>
+      <anchor>aaf6b8df4217a909f318285bf231104fc</anchor>
+      <arglist>(reference left, reference right) noexcept(std::is_nothrow_move_constructible&lt; value_t &gt;::value and std::is_nothrow_move_assignable&lt; value_t &gt;::value and std::is_nothrow_move_constructible&lt; json_value &gt;::value and std::is_nothrow_move_assignable&lt; json_value &gt;::value)</arglist>
+    </member>
     <member kind="function">
       <type>void</type>
       <name>clear</name>
@@ -1307,65 +1321,65 @@
     <member kind="function" static="yes">
       <type>static JSON_HEDLEY_WARN_UNUSED_RESULT basic_json</type>
       <name>parse</name>
-      <anchorfile>classnlohmann_1_1basic__json_a4c734aac1ea36f4b62f25308b6c6784a.html</anchorfile>
-      <anchor>a4c734aac1ea36f4b62f25308b6c6784a</anchor>
-      <arglist>(InputType &amp;&amp;i, const parser_callback_t cb=nullptr, const bool allow_exceptions=true)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a633db4570bf0afb137dec11a2439acee.html</anchorfile>
+      <anchor>a633db4570bf0afb137dec11a2439acee</anchor>
+      <arglist>(InputType &amp;&amp;i, const parser_callback_t cb=nullptr, const bool allow_exceptions=true, const bool ignore_comments=false)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static JSON_HEDLEY_WARN_UNUSED_RESULT basic_json</type>
       <name>parse</name>
-      <anchorfile>classnlohmann_1_1basic__json_a7c2810819d5bb201063c17fba074a911.html</anchorfile>
-      <anchor>a7c2810819d5bb201063c17fba074a911</anchor>
-      <arglist>(IteratorType first, IteratorType last, const parser_callback_t cb=nullptr, const bool allow_exceptions=true)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_ab7470dfe956c4e70ea54a22e5ca32eab.html</anchorfile>
+      <anchor>ab7470dfe956c4e70ea54a22e5ca32eab</anchor>
+      <arglist>(IteratorType first, IteratorType last, const parser_callback_t cb=nullptr, const bool allow_exceptions=true, const bool ignore_comments=false)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static JSON_HEDLEY_WARN_UNUSED_RESULT basic_json</type>
       <name>parse</name>
-      <anchorfile>classnlohmann_1_1basic__json_a08a4409d59797b1a6ce834b11aad7a98.html</anchorfile>
-      <anchor>a08a4409d59797b1a6ce834b11aad7a98</anchor>
-      <arglist>(detail::span_input_adapter &amp;&amp;i, const parser_callback_t cb=nullptr, const bool allow_exceptions=true)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_ab57873e5fad72c456a396d50a272a197.html</anchorfile>
+      <anchor>ab57873e5fad72c456a396d50a272a197</anchor>
+      <arglist>(detail::span_input_adapter &amp;&amp;i, const parser_callback_t cb=nullptr, const bool allow_exceptions=true, const bool ignore_comments=false)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static bool</type>
       <name>accept</name>
-      <anchorfile>classnlohmann_1_1basic__json_af5e744eca7450c62aad896fc9c3424a2.html</anchorfile>
-      <anchor>af5e744eca7450c62aad896fc9c3424a2</anchor>
-      <arglist>(InputType &amp;&amp;i)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a7fb5ed7fb021ad10238cb57937f07d50.html</anchorfile>
+      <anchor>a7fb5ed7fb021ad10238cb57937f07d50</anchor>
+      <arglist>(InputType &amp;&amp;i, const bool ignore_comments=false)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static bool</type>
       <name>accept</name>
-      <anchorfile>classnlohmann_1_1basic__json_a7dc0977ab6744b3a73736dd406660bc8.html</anchorfile>
-      <anchor>a7dc0977ab6744b3a73736dd406660bc8</anchor>
-      <arglist>(IteratorType first, IteratorType last)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_aab88366b8b8da10a34667e85c2f75a43.html</anchorfile>
+      <anchor>aab88366b8b8da10a34667e85c2f75a43</anchor>
+      <arglist>(IteratorType first, IteratorType last, const bool ignore_comments=false)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static JSON_HEDLEY_WARN_UNUSED_RESULT bool</type>
       <name>accept</name>
-      <anchorfile>classnlohmann_1_1basic__json_acc4104c4106fa50078c9986365e29386.html</anchorfile>
-      <anchor>acc4104c4106fa50078c9986365e29386</anchor>
-      <arglist>(detail::span_input_adapter &amp;&amp;i)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a820ddb87c8e6bc2f1aa58c0cec6a46f9.html</anchorfile>
+      <anchor>a820ddb87c8e6bc2f1aa58c0cec6a46f9</anchor>
+      <arglist>(detail::span_input_adapter &amp;&amp;i, const bool ignore_comments=false)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static bool</type>
       <name>sax_parse</name>
-      <anchorfile>classnlohmann_1_1basic__json_a4c94248c2315da6e6b0f37a55343234f.html</anchorfile>
-      <anchor>a4c94248c2315da6e6b0f37a55343234f</anchor>
-      <arglist>(InputType &amp;&amp;i, SAX *sax, input_format_t format=input_format_t::json, const bool strict=true)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a21dc71dda1df5d840625c360329e69fe.html</anchorfile>
+      <anchor>a21dc71dda1df5d840625c360329e69fe</anchor>
+      <arglist>(InputType &amp;&amp;i, SAX *sax, input_format_t format=input_format_t::json, const bool strict=true, const bool ignore_comments=false)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static bool</type>
       <name>sax_parse</name>
-      <anchorfile>classnlohmann_1_1basic__json_a56dca2a3714d0e00588a69b2f396dad6.html</anchorfile>
-      <anchor>a56dca2a3714d0e00588a69b2f396dad6</anchor>
-      <arglist>(IteratorType first, IteratorType last, SAX *sax, input_format_t format=input_format_t::json, const bool strict=true)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_af23e5f8e930bf915c01f3c8102697df8.html</anchorfile>
+      <anchor>af23e5f8e930bf915c01f3c8102697df8</anchor>
+      <arglist>(IteratorType first, IteratorType last, SAX *sax, input_format_t format=input_format_t::json, const bool strict=true, const bool ignore_comments=false)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static bool</type>
       <name>sax_parse</name>
-      <anchorfile>classnlohmann_1_1basic__json_a2d4b79f345a9b2f93211f005c0e14121.html</anchorfile>
-      <anchor>a2d4b79f345a9b2f93211f005c0e14121</anchor>
-      <arglist>(detail::span_input_adapter &amp;&amp;i, SAX *sax, input_format_t format=input_format_t::json, const bool strict=true)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a3eb7c400c9e6d2739f332ea77e64bdb8.html</anchorfile>
+      <anchor>a3eb7c400c9e6d2739f332ea77e64bdb8</anchor>
+      <arglist>(detail::span_input_adapter &amp;&amp;i, SAX *sax, input_format_t format=input_format_t::json, const bool strict=true, const bool ignore_comments=false)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static std::vector&lt; uint8_t &gt;</type>

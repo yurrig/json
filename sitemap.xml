@@ -1,115 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://squidfunk.github.io/mkdocs-material/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/home/license/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/home/code_of_conduct/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/home/faq/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/home/exceptions/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/home/releases/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/home/design_goals/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/home/sponsors/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/arbitrary_types/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/binary_formats/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/binary_formats/bson/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/binary_formats/cbor/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/binary_formats/messagepack/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/binary_formats/ubjson/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/binary_values/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/iterators/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/json_pointer/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/json_patch/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/merge_patch/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/enum_conversion/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/features/macros/</loc>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/parsing/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/parsing/parse_exceptions/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/parsing/parser_callbacks/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/parsing/sax_interface/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/types/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/integration/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/integration/cmake/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/integration/package_managers/</loc>
-     <lastmod>2020-06-14</lastmod>
+     <lastmod>2020-07-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

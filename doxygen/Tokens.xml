@@ -999,6 +999,17 @@
       <Type>instm</Type>
       <Scope>nlohmann::basic_json</Scope>
     </TokenIdentifier>
+    <Path>classnlohmann_1_1basic__json_a8477b6e6219ddcb6a952447f12a681c5.html</Path>
+    <Anchor>a8477b6e6219ddcb6a952447f12a681c5</Anchor>
+    <DeclaredIn>json.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get_to</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>instm</Type>
+      <Scope>nlohmann::basic_json</Scope>
+    </TokenIdentifier>
     <Path>classnlohmann_1_1basic__json_aaca828acdba11b390de87689ac18fd08.html</Path>
     <Anchor>aaca828acdba11b390de87689ac18fd08</Anchor>
     <DeclaredIn>json.hpp</DeclaredIn>
@@ -1663,6 +1674,18 @@
   </Token>
   <Token>
     <TokenIdentifier>
+      <Name>swap</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>ffunc</Type>
+      <Scope>nlohmann::basic_json</Scope>
+    </TokenIdentifier>
+    <Path>classnlohmann_1_1basic__json_aaf6b8df4217a909f318285bf231104fc.html</Path>
+    <Anchor>aaf6b8df4217a909f318285bf231104fc</Anchor>
+    <Abstract>exchanges the values</Abstract>
+    <DeclaredIn>json.hpp</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
       <Name>clear</Name>
       <APILanguage>cpp</APILanguage>
       <Type>instm</Type>
@@ -2242,8 +2265,8 @@
       <Type>clm</Type>
       <Scope>nlohmann::basic_json</Scope>
     </TokenIdentifier>
-    <Path>classnlohmann_1_1basic__json_a4c734aac1ea36f4b62f25308b6c6784a.html</Path>
-    <Anchor>a4c734aac1ea36f4b62f25308b6c6784a</Anchor>
+    <Path>classnlohmann_1_1basic__json_a633db4570bf0afb137dec11a2439acee.html</Path>
+    <Anchor>a633db4570bf0afb137dec11a2439acee</Anchor>
     <Abstract>deserialize from a compatible input</Abstract>
     <DeclaredIn>json.hpp</DeclaredIn>
   </Token>
@@ -2254,8 +2277,8 @@
       <Type>clm</Type>
       <Scope>nlohmann::basic_json</Scope>
     </TokenIdentifier>
-    <Path>classnlohmann_1_1basic__json_a7c2810819d5bb201063c17fba074a911.html</Path>
-    <Anchor>a7c2810819d5bb201063c17fba074a911</Anchor>
+    <Path>classnlohmann_1_1basic__json_ab7470dfe956c4e70ea54a22e5ca32eab.html</Path>
+    <Anchor>ab7470dfe956c4e70ea54a22e5ca32eab</Anchor>
     <Abstract>deserialize from a pair of character iterators</Abstract>
     <DeclaredIn>json.hpp</DeclaredIn>
   </Token>
@@ -2266,8 +2289,8 @@
       <Type>clm</Type>
       <Scope>nlohmann::basic_json</Scope>
     </TokenIdentifier>
-    <Path>classnlohmann_1_1basic__json_a08a4409d59797b1a6ce834b11aad7a98.html</Path>
-    <Anchor>a08a4409d59797b1a6ce834b11aad7a98</Anchor>
+    <Path>classnlohmann_1_1basic__json_ab57873e5fad72c456a396d50a272a197.html</Path>
+    <Anchor>ab57873e5fad72c456a396d50a272a197</Anchor>
     <DeclaredIn>json.hpp</DeclaredIn>
   </Token>
   <Token>
@@ -2277,8 +2300,8 @@
       <Type>clm</Type>
       <Scope>nlohmann::basic_json</Scope>
     </TokenIdentifier>
-    <Path>classnlohmann_1_1basic__json_af5e744eca7450c62aad896fc9c3424a2.html</Path>
-    <Anchor>af5e744eca7450c62aad896fc9c3424a2</Anchor>
+    <Path>classnlohmann_1_1basic__json_a7fb5ed7fb021ad10238cb57937f07d50.html</Path>
+    <Anchor>a7fb5ed7fb021ad10238cb57937f07d50</Anchor>
     <Abstract>check if the input is valid JSON</Abstract>
     <DeclaredIn>json.hpp</DeclaredIn>
   </Token>
@@ -2289,8 +2312,8 @@
       <Type>clm</Type>
       <Scope>nlohmann::basic_json</Scope>
     </TokenIdentifier>
-    <Path>classnlohmann_1_1basic__json_a7dc0977ab6744b3a73736dd406660bc8.html</Path>
-    <Anchor>a7dc0977ab6744b3a73736dd406660bc8</Anchor>
+    <Path>classnlohmann_1_1basic__json_aab88366b8b8da10a34667e85c2f75a43.html</Path>
+    <Anchor>aab88366b8b8da10a34667e85c2f75a43</Anchor>
     <DeclaredIn>json.hpp</DeclaredIn>
   </Token>
   <Token>
@@ -2300,8 +2323,8 @@
       <Type>clm</Type>
       <Scope>nlohmann::basic_json</Scope>
     </TokenIdentifier>
-    <Path>classnlohmann_1_1basic__json_acc4104c4106fa50078c9986365e29386.html</Path>
-    <Anchor>acc4104c4106fa50078c9986365e29386</Anchor>
+    <Path>classnlohmann_1_1basic__json_a820ddb87c8e6bc2f1aa58c0cec6a46f9.html</Path>
+    <Anchor>a820ddb87c8e6bc2f1aa58c0cec6a46f9</Anchor>
     <DeclaredIn>json.hpp</DeclaredIn>
   </Token>
   <Token>
@@ -2311,8 +2334,8 @@
       <Type>clm</Type>
       <Scope>nlohmann::basic_json</Scope>
     </TokenIdentifier>
-    <Path>classnlohmann_1_1basic__json_a4c94248c2315da6e6b0f37a55343234f.html</Path>
-    <Anchor>a4c94248c2315da6e6b0f37a55343234f</Anchor>
+    <Path>classnlohmann_1_1basic__json_a21dc71dda1df5d840625c360329e69fe.html</Path>
+    <Anchor>a21dc71dda1df5d840625c360329e69fe</Anchor>
     <Abstract>generate SAX events</Abstract>
     <DeclaredIn>json.hpp</DeclaredIn>
   </Token>
@@ -2323,8 +2346,8 @@
       <Type>clm</Type>
       <Scope>nlohmann::basic_json</Scope>
     </TokenIdentifier>
-    <Path>classnlohmann_1_1basic__json_a56dca2a3714d0e00588a69b2f396dad6.html</Path>
-    <Anchor>a56dca2a3714d0e00588a69b2f396dad6</Anchor>
+    <Path>classnlohmann_1_1basic__json_af23e5f8e930bf915c01f3c8102697df8.html</Path>
+    <Anchor>af23e5f8e930bf915c01f3c8102697df8</Anchor>
     <DeclaredIn>json.hpp</DeclaredIn>
   </Token>
   <Token>
@@ -2334,8 +2357,8 @@
       <Type>clm</Type>
       <Scope>nlohmann::basic_json</Scope>
     </TokenIdentifier>
-    <Path>classnlohmann_1_1basic__json_a2d4b79f345a9b2f93211f005c0e14121.html</Path>
-    <Anchor>a2d4b79f345a9b2f93211f005c0e14121</Anchor>
+    <Path>classnlohmann_1_1basic__json_a3eb7c400c9e6d2739f332ea77e64bdb8.html</Path>
+    <Anchor>a3eb7c400c9e6d2739f332ea77e64bdb8</Anchor>
     <DeclaredIn>json.hpp</DeclaredIn>
   </Token>
   <Token>
