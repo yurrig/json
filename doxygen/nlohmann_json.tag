@@ -24,6 +24,13 @@
     <name>nlohmann::basic_json</name>
     <filename>classnlohmann_1_1basic__json.html</filename>
     <member kind="typedef">
+      <type>detail::cbor_tag_handler_t</type>
+      <name>cbor_tag_handler_t</name>
+      <anchorfile>classnlohmann_1_1basic__json_a229d672056243afb8f97ccf1b9df6ff7.html</anchorfile>
+      <anchor>a229d672056243afb8f97ccf1b9df6ff7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
       <type>detail::error_handler_t</type>
       <name>error_handler_t</name>
       <anchorfile>classnlohmann_1_1basic__json_a05b1719e15d24c47f4fce69888967d1e.html</anchorfile>
@@ -418,9 +425,9 @@
     <member kind="function">
       <type>basic_json &amp;</type>
       <name>operator=</name>
-      <anchorfile>classnlohmann_1_1basic__json_ad839b769b960e8911e720e39de2af4e8.html</anchorfile>
-      <anchor>ad839b769b960e8911e720e39de2af4e8</anchor>
-      <arglist>(basic_json other) noexcept(std::is_nothrow_move_constructible&lt; value_t &gt;::value and std::is_nothrow_move_assignable&lt; value_t &gt;::value and std::is_nothrow_move_constructible&lt; json_value &gt;::value and std::is_nothrow_move_assignable&lt; json_value &gt;::value)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_aa39eda8a41872fe4b022855e27fac90d.html</anchorfile>
+      <anchor>aa39eda8a41872fe4b022855e27fac90d</anchor>
+      <arglist>(basic_json other) noexcept(std::is_nothrow_move_constructible&lt; value_t &gt;::value &amp;&amp;std::is_nothrow_move_assignable&lt; value_t &gt;::value &amp;&amp;std::is_nothrow_move_constructible&lt; json_value &gt;::value &amp;&amp;std::is_nothrow_move_assignable&lt; json_value &gt;::value)</arglist>
     </member>
     <member kind="function">
       <type></type>
@@ -633,10 +640,10 @@
       <arglist>() const</arglist>
     </member>
     <member kind="function">
-      <type></type>
+      <type>JSON_EXPLICIT</type>
       <name>operator ValueType</name>
-      <anchorfile>classnlohmann_1_1basic__json_a3bdbda89fa87b8cd71f0ac0d048b8873.html</anchorfile>
-      <anchor>a3bdbda89fa87b8cd71f0ac0d048b8873</anchor>
+      <anchorfile>classnlohmann_1_1basic__json_a67625415961aa7a1289d3d08cc404284.html</anchorfile>
+      <anchor>a67625415961aa7a1289d3d08cc404284</anchor>
       <arglist>() const</arglist>
     </member>
     <member kind="function">
@@ -978,9 +985,9 @@
     <member kind="friend">
       <type>friend void</type>
       <name>swap</name>
-      <anchorfile>classnlohmann_1_1basic__json_aaf6b8df4217a909f318285bf231104fc.html</anchorfile>
-      <anchor>aaf6b8df4217a909f318285bf231104fc</anchor>
-      <arglist>(reference left, reference right) noexcept(std::is_nothrow_move_constructible&lt; value_t &gt;::value and std::is_nothrow_move_assignable&lt; value_t &gt;::value and std::is_nothrow_move_constructible&lt; json_value &gt;::value and std::is_nothrow_move_assignable&lt; json_value &gt;::value)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_aee0ae36cbfb0336832ebc0374c3c7679.html</anchorfile>
+      <anchor>aee0ae36cbfb0336832ebc0374c3c7679</anchor>
+      <arglist>(reference left, reference right) noexcept(std::is_nothrow_move_constructible&lt; value_t &gt;::value &amp;&amp;std::is_nothrow_move_assignable&lt; value_t &gt;::value &amp;&amp;std::is_nothrow_move_constructible&lt; json_value &gt;::value &amp;&amp;std::is_nothrow_move_assignable&lt; json_value &gt;::value)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
@@ -1125,9 +1132,9 @@
     <member kind="function">
       <type>void</type>
       <name>swap</name>
-      <anchorfile>classnlohmann_1_1basic__json_ae97dc3e7ce9ce6fcef641eed160628f9.html</anchorfile>
-      <anchor>ae97dc3e7ce9ce6fcef641eed160628f9</anchor>
-      <arglist>(reference other) noexcept(std::is_nothrow_move_constructible&lt; value_t &gt;::value and std::is_nothrow_move_assignable&lt; value_t &gt;::value and std::is_nothrow_move_constructible&lt; json_value &gt;::value and std::is_nothrow_move_assignable&lt; json_value &gt;::value)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_ade6945272c7b703520f435ad580d3c7f.html</anchorfile>
+      <anchor>ade6945272c7b703520f435ad580d3c7f</anchor>
+      <arglist>(reference other) noexcept(std::is_nothrow_move_constructible&lt; value_t &gt;::value &amp;&amp;std::is_nothrow_move_assignable&lt; value_t &gt;::value &amp;&amp;std::is_nothrow_move_constructible&lt; json_value &gt;::value &amp;&amp;std::is_nothrow_move_assignable&lt; json_value &gt;::value)</arglist>
     </member>
     <member kind="function">
       <type>void</type>
@@ -1468,30 +1475,30 @@
     <member kind="function" static="yes">
       <type>static JSON_HEDLEY_WARN_UNUSED_RESULT basic_json</type>
       <name>from_cbor</name>
-      <anchorfile>classnlohmann_1_1basic__json_a6700702918b1374cd3b197dbecf9baf2.html</anchorfile>
-      <anchor>a6700702918b1374cd3b197dbecf9baf2</anchor>
-      <arglist>(InputType &amp;&amp;i, const bool strict=true, const bool allow_exceptions=true)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_ac771f2c2d0b16f59bc066db900963ba1.html</anchorfile>
+      <anchor>ac771f2c2d0b16f59bc066db900963ba1</anchor>
+      <arglist>(InputType &amp;&amp;i, const bool strict=true, const bool allow_exceptions=true, const cbor_tag_handler_t tag_handler=cbor_tag_handler_t::error)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static JSON_HEDLEY_WARN_UNUSED_RESULT basic_json</type>
       <name>from_cbor</name>
-      <anchorfile>classnlohmann_1_1basic__json_a54d153de8c9bf520b70ba96df7c85f63.html</anchorfile>
-      <anchor>a54d153de8c9bf520b70ba96df7c85f63</anchor>
-      <arglist>(IteratorType first, IteratorType last, const bool strict=true, const bool allow_exceptions=true)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_afcb83dba9c83a73524cc28812db2abd4.html</anchorfile>
+      <anchor>afcb83dba9c83a73524cc28812db2abd4</anchor>
+      <arglist>(IteratorType first, IteratorType last, const bool strict=true, const bool allow_exceptions=true, const cbor_tag_handler_t tag_handler=cbor_tag_handler_t::error)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static JSON_HEDLEY_WARN_UNUSED_RESULT basic_json</type>
       <name>from_cbor</name>
-      <anchorfile>classnlohmann_1_1basic__json_a088b45a645c89de106cda21ccb49cc50.html</anchorfile>
-      <anchor>a088b45a645c89de106cda21ccb49cc50</anchor>
-      <arglist>(const T *ptr, std::size_t len, const bool strict=true, const bool allow_exceptions=true)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a0de100b38bceef049a83e37535bb1481.html</anchorfile>
+      <anchor>a0de100b38bceef049a83e37535bb1481</anchor>
+      <arglist>(const T *ptr, std::size_t len, const bool strict=true, const bool allow_exceptions=true, const cbor_tag_handler_t tag_handler=cbor_tag_handler_t::error)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static JSON_HEDLEY_WARN_UNUSED_RESULT basic_json</type>
       <name>from_cbor</name>
-      <anchorfile>classnlohmann_1_1basic__json_a95cdd5c202fccfd1858f1f506595f596.html</anchorfile>
-      <anchor>a95cdd5c202fccfd1858f1f506595f596</anchor>
-      <arglist>(detail::span_input_adapter &amp;&amp;i, const bool strict=true, const bool allow_exceptions=true)</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_aec841f6fd0dfce8fa1d33efe5ec913b7.html</anchorfile>
+      <anchor>aec841f6fd0dfce8fa1d33efe5ec913b7</anchor>
+      <arglist>(detail::span_input_adapter &amp;&amp;i, const bool strict=true, const bool allow_exceptions=true, const cbor_tag_handler_t tag_handler=cbor_tag_handler_t::error)</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static JSON_HEDLEY_WARN_UNUSED_RESULT basic_json</type>
@@ -2010,6 +2017,77 @@
       <arglist>(string_t &amp;val)=0</arglist>
     </member>
   </compound>
+  <compound kind="struct">
+    <name>nlohmann::ordered_map</name>
+    <filename>structnlohmann_1_1ordered__map.html</filename>
+    <templarg></templarg>
+    <templarg></templarg>
+    <templarg></templarg>
+    <templarg></templarg>
+    <member kind="typedef">
+      <type>std::vector&lt; std::pair&lt; const Key, T &gt;, Allocator &gt;</type>
+      <name>Container</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a0cabe346c38a4f1ab1b8a396fbd2bbe2.html</anchorfile>
+      <anchor>a0cabe346c38a4f1ab1b8a396fbd2bbe2</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>Key</type>
+      <name>key_type</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a57095c6ed403f02e1bc2c240a13c9ed8.html</anchorfile>
+      <anchor>a57095c6ed403f02e1bc2c240a13c9ed8</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>T</type>
+      <name>mapped_type</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a1c9c1509ee714a9814b45a8030c84ec7.html</anchorfile>
+      <anchor>a1c9c1509ee714a9814b45a8030c84ec7</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>ordered_map</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a87938c10b76510dac00412d2cb5fd1e4.html</anchorfile>
+      <anchor>a87938c10b76510dac00412d2cb5fd1e4</anchor>
+      <arglist>(const Allocator &amp;alloc=Allocator())</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>ordered_map</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a9d25efb51325cc1be027b8ea00c1f8b8.html</anchorfile>
+      <anchor>a9d25efb51325cc1be027b8ea00c1f8b8</anchor>
+      <arglist>(It first, It last, const Allocator &amp;alloc=Allocator())</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>ordered_map</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a0482ea79e7786367a2d9b5c789c091ce.html</anchorfile>
+      <anchor>a0482ea79e7786367a2d9b5c789c091ce</anchor>
+      <arglist>(std::initializer_list&lt; T &gt; init, const Allocator &amp;alloc=Allocator())</arglist>
+    </member>
+    <member kind="function">
+      <type>std::pair&lt; iterator, bool &gt;</type>
+      <name>emplace</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a60c5186a2b57ccaa1de427178228b4f1.html</anchorfile>
+      <anchor>a60c5186a2b57ccaa1de427178228b4f1</anchor>
+      <arglist>(key_type &amp;&amp;key, T &amp;&amp;t)</arglist>
+    </member>
+    <member kind="function">
+      <type>size_type</type>
+      <name>erase</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a583c8976bbf0c137ff8e2439878f3058.html</anchorfile>
+      <anchor>a583c8976bbf0c137ff8e2439878f3058</anchor>
+      <arglist>(const Key &amp;key)</arglist>
+    </member>
+    <member kind="function">
+      <type>T &amp;</type>
+      <name>operator[]</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a4a61e10f15737d8aeef2c09e43ed27a3.html</anchorfile>
+      <anchor>a4a61e10f15737d8aeef2c09e43ed27a3</anchor>
+      <arglist>(Key &amp;&amp;key)</arglist>
+    </member>
+  </compound>
   <compound kind="namespace">
     <name>nlohmann</name>
     <filename>namespacenlohmann.html</filename>
@@ -2019,11 +2097,19 @@
     <class kind="class">nlohmann::byte_container_with_subtype</class>
     <class kind="class">nlohmann::json_pointer</class>
     <class kind="struct">nlohmann::json_sax</class>
+    <class kind="struct">nlohmann::ordered_map</class>
     <member kind="typedef">
       <type>basic_json&lt;&gt;</type>
       <name>json</name>
       <anchorfile>namespacenlohmann_a2bfd99e845a2e5cd90aeaf1b1431f474.html</anchorfile>
       <anchor>a2bfd99e845a2e5cd90aeaf1b1431f474</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="typedef">
+      <type>basic_json&lt; nlohmann::ordered_map &gt;</type>
+      <name>ordered_json</name>
+      <anchorfile>namespacenlohmann_ad53cef358adfa7f07cea23eb1e28b9ea.html</anchorfile>
+      <anchor>ad53cef358adfa7f07cea23eb1e28b9ea</anchor>
       <arglist></arglist>
     </member>
     <member kind="function">
