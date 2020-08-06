@@ -2067,11 +2067,32 @@
       <arglist>(std::initializer_list&lt; T &gt; init, const Allocator &amp;alloc=Allocator())</arglist>
     </member>
     <member kind="function">
+      <type>T &amp;</type>
+      <name>at</name>
+      <anchorfile>structnlohmann_1_1ordered__map_ab7b4bb185fe7ea84f8f5f32fd230ff91.html</anchorfile>
+      <anchor>ab7b4bb185fe7ea84f8f5f32fd230ff91</anchor>
+      <arglist>(const Key &amp;key)</arglist>
+    </member>
+    <member kind="function">
+      <type>const T &amp;</type>
+      <name>at</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a8b7f27215180385b9b1e98adc4dd8ae7.html</anchorfile>
+      <anchor>a8b7f27215180385b9b1e98adc4dd8ae7</anchor>
+      <arglist>(const Key &amp;key) const</arglist>
+    </member>
+    <member kind="function">
+      <type>size_type</type>
+      <name>count</name>
+      <anchorfile>structnlohmann_1_1ordered__map_aee2c188dcc802d6b28910f707a5e637b.html</anchorfile>
+      <anchor>aee2c188dcc802d6b28910f707a5e637b</anchor>
+      <arglist>(const Key &amp;key) const</arglist>
+    </member>
+    <member kind="function">
       <type>std::pair&lt; iterator, bool &gt;</type>
       <name>emplace</name>
-      <anchorfile>structnlohmann_1_1ordered__map_a60c5186a2b57ccaa1de427178228b4f1.html</anchorfile>
-      <anchor>a60c5186a2b57ccaa1de427178228b4f1</anchor>
-      <arglist>(key_type &amp;&amp;key, T &amp;&amp;t)</arglist>
+      <anchorfile>structnlohmann_1_1ordered__map_a38834c948b844033caa7d5c76fee5866.html</anchorfile>
+      <anchor>a38834c948b844033caa7d5c76fee5866</anchor>
+      <arglist>(const key_type &amp;key, T &amp;&amp;t)</arglist>
     </member>
     <member kind="function">
       <type>size_type</type>
@@ -2081,11 +2102,53 @@
       <arglist>(const Key &amp;key)</arglist>
     </member>
     <member kind="function">
+      <type>iterator</type>
+      <name>erase</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a26053569acb0a858d87482b2fa3d5dc5.html</anchorfile>
+      <anchor>a26053569acb0a858d87482b2fa3d5dc5</anchor>
+      <arglist>(iterator pos)</arglist>
+    </member>
+    <member kind="function">
+      <type>iterator</type>
+      <name>find</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a2486527ac56e07d58946ae9a93a46bc8.html</anchorfile>
+      <anchor>a2486527ac56e07d58946ae9a93a46bc8</anchor>
+      <arglist>(const Key &amp;key)</arglist>
+    </member>
+    <member kind="function">
+      <type>const_iterator</type>
+      <name>find</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a41e6e34fa8a90b96cbe5c71fec10d2ee.html</anchorfile>
+      <anchor>a41e6e34fa8a90b96cbe5c71fec10d2ee</anchor>
+      <arglist>(const Key &amp;key) const</arglist>
+    </member>
+    <member kind="function">
+      <type>std::pair&lt; iterator, bool &gt;</type>
+      <name>insert</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a0241433138719e477a3cbb0c4cf0a243.html</anchorfile>
+      <anchor>a0241433138719e477a3cbb0c4cf0a243</anchor>
+      <arglist>(const value_type &amp;value)</arglist>
+    </member>
+    <member kind="function">
+      <type>std::pair&lt; iterator, bool &gt;</type>
+      <name>insert</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a48eceff729b80f3f4a023b737efccc5b.html</anchorfile>
+      <anchor>a48eceff729b80f3f4a023b737efccc5b</anchor>
+      <arglist>(value_type &amp;&amp;value)</arglist>
+    </member>
+    <member kind="function">
       <type>T &amp;</type>
       <name>operator[]</name>
-      <anchorfile>structnlohmann_1_1ordered__map_a4a61e10f15737d8aeef2c09e43ed27a3.html</anchorfile>
-      <anchor>a4a61e10f15737d8aeef2c09e43ed27a3</anchor>
-      <arglist>(Key &amp;&amp;key)</arglist>
+      <anchorfile>structnlohmann_1_1ordered__map_ae7a1ca8c1e234837d137471f73ae6012.html</anchorfile>
+      <anchor>ae7a1ca8c1e234837d137471f73ae6012</anchor>
+      <arglist>(const Key &amp;key)</arglist>
+    </member>
+    <member kind="function">
+      <type>const T &amp;</type>
+      <name>operator[]</name>
+      <anchorfile>structnlohmann_1_1ordered__map_a676082659d575e29bdb312bcde53023a.html</anchorfile>
+      <anchor>a676082659d575e29bdb312bcde53023a</anchor>
+      <arglist>(const Key &amp;key) const</arglist>
     </member>
   </compound>
   <compound kind="namespace">
