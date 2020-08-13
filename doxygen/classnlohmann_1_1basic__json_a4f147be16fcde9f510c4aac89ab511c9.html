@@ -72,6 +72,7 @@ $(function() {
    <td valign="top">
       <div class="navtab">
         <table>
+          <tr><td class="navtab"><a class="qindex" href="classnlohmann_1_1basic__json_aa52fb28bbfe1d5484808cad53c35d76c.html#aa52fb28bbfe1d5484808cad53c35d76c">__pad3__</a></td></tr>
           <tr><td class="navtab"><a class="qindex" href="classnlohmann_1_1basic__json_a32872afe5bfd040777e3e2bb85f0ca55.html#a32872afe5bfd040777e3e2bb85f0ca55">accept</a></td></tr>
           <tr><td class="navtab"><a class="qindex" href="classnlohmann_1_1basic__json_a47fb596473649332185aedb0a8a6ccc5.html#a47fb596473649332185aedb0a8a6ccc5">accept</a></td></tr>
           <tr><td class="navtab"><a class="qindex" href="classnlohmann_1_1basic__json_a6d9e85910b91d02f6807b69b61690a4b.html#a6d9e85910b91d02f6807b69b61690a4b">accept</a></td></tr>
@@ -200,6 +201,7 @@ $(function() {
           <tr><td class="navtab"><a class="qindex" href="classnlohmann_1_1basic__json_aa8f1f93b32da01b42413643be32b2c27.html#aa8f1f93b32da01b42413643be32b2c27">json_pointer</a></td></tr>
           <tr><td class="navtab"><a class="qindex" href="classnlohmann_1_1basic__json_a164b1094a1a9feb54e400d8510bb0b12.html#a164b1094a1a9feb54e400d8510bb0b12">json_sax_t</a></td></tr>
           <tr><td class="navtab"><a class="qindex" href="classnlohmann_1_1basic__json_ad6ebc5da7ced975bb184133750e7d49f.html#ad6ebc5da7ced975bb184133750e7d49f">json_serializer</a></td></tr>
+          <tr><td class="navtab"><a class="qindex" href="classnlohmann_1_1basic__json_a72f1c0ede41f166429ce3fe7c2ffefc0.html#a72f1c0ede41f166429ce3fe7c2ffefc0">m_value</a></td></tr>
           <tr><td class="navtab"><a class="qindex" href="classnlohmann_1_1basic__json_a1b46c6631e30b8394e89bd1546d69736.html#a1b46c6631e30b8394e89bd1546d69736">max_size</a></td></tr>
           <tr><td class="navtab"><a class="qindex" href="classnlohmann_1_1basic__json_a844a77cb154752d12118f10af26d54cb.html#a844a77cb154752d12118f10af26d54cb">merge_patch</a></td></tr>
           <tr><td class="navtab"><a class="qindex" href="classnlohmann_1_1basic__json_a351b4f65014f6c2b8b2832847d44bbd7.html#a351b4f65014f6c2b8b2832847d44bbd7">meta</a></td></tr>
@@ -352,10 +354,10 @@ Illustration from cppreference.com</div></div>
 <div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="keywordtype">int</span> main()</div>
 <div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;{</div>
 <div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;    <span class="comment">// create an array value</span></div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;    <span class="keyword">const</span> <a class="code" href="namespacenlohmann_a2bfd99e845a2e5cd90aeaf1b1431f474.html#a2bfd99e845a2e5cd90aeaf1b1431f474">json</a> <a class="code" href="classnlohmann_1_1basic__json_a2c8d8f5741aedadac8f3bffd8f2ce13e.html#a2c8d8f5741aedadac8f3bffd8f2ce13e">array</a> = {1, 2, 3, 4, 5};</div>
+<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;    <span class="keyword">const</span> <a class="code" href="namespacenlohmann_a2bfd99e845a2e5cd90aeaf1b1431f474.html#a2bfd99e845a2e5cd90aeaf1b1431f474">json</a> array = {1, 2, 3, 4, 5};</div>
 <div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160; </div>
 <div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;    <span class="comment">// get an iterator to the first element</span></div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;    <a class="code" href="classnlohmann_1_1basic__json_aebd2cfa7e4ded4e97cde9269bfeeea38.html#aebd2cfa7e4ded4e97cde9269bfeeea38">json::const_iterator</a> it = <a class="code" href="classnlohmann_1_1basic__json_a2c8d8f5741aedadac8f3bffd8f2ce13e.html#a2c8d8f5741aedadac8f3bffd8f2ce13e">array</a>.<a class="code" href="classnlohmann_1_1basic__json_ae508c13e3ad6ce445bcaf24a2bc7d039.html#ae508c13e3ad6ce445bcaf24a2bc7d039">cbegin</a>();</div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;    <a class="code" href="classnlohmann_1_1basic__json_aebd2cfa7e4ded4e97cde9269bfeeea38.html#aebd2cfa7e4ded4e97cde9269bfeeea38">json::const_iterator</a> it = array.cbegin();</div>
 <div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160; </div>
 <div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;    <span class="comment">// serialize the element that the iterator points to</span></div>
 <div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;    std::cout &lt;&lt; *it &lt;&lt; <span class="charliteral">&#39;\n&#39;</span>;</div>
@@ -370,7 +372,7 @@ Illustration from cppreference.com</div></div>
 <a class="el" href="classnlohmann_1_1basic__json_a3017cf0f1a4673e904e34cfef62e7758.html#a3017cf0f1a4673e904e34cfef62e7758">cend()</a> &ndash; returns a const iterator to the end</dd></dl>
 <dl class="section since"><dt>Since</dt><dd>version 1.0.0 </dd></dl>
 
-<p class="definition">Definition at line <a class="el" href="json_8hpp_source.html#l20991">20991</a> of file <a class="el" href="json_8hpp_source.html">json.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="json_8hpp_source.html#l21009">21009</a> of file <a class="el" href="json_8hpp_source.html">json.hpp</a>.</p>
 
 </div>
 </div>
@@ -378,13 +380,11 @@ Illustration from cppreference.com</div></div>
   </tr>
 </table>
 </div><!-- contents -->
-<div class="ttc" id="aclassnlohmann_1_1basic__json_a2c8d8f5741aedadac8f3bffd8f2ce13e_html_a2c8d8f5741aedadac8f3bffd8f2ce13e"><div class="ttname"><a href="classnlohmann_1_1basic__json_a2c8d8f5741aedadac8f3bffd8f2ce13e.html#a2c8d8f5741aedadac8f3bffd8f2ce13e">nlohmann::basic_json::array</a></div><div class="ttdeci">static  basic_json array(initializer_list_t init={})</div><div class="ttdoc">explicitly create an array from an initializer list</div><div class="ttdef"><b>Definition:</b> <a href="json_8hpp_source.html#l18275">json.hpp:18275</a></div></div>
-<div class="ttc" id="aclassnlohmann_1_1basic__json_ae508c13e3ad6ce445bcaf24a2bc7d039_html_ae508c13e3ad6ce445bcaf24a2bc7d039"><div class="ttname"><a href="classnlohmann_1_1basic__json_ae508c13e3ad6ce445bcaf24a2bc7d039.html#ae508c13e3ad6ce445bcaf24a2bc7d039">nlohmann::basic_json::cbegin</a></div><div class="ttdeci">const_iterator cbegin() const noexcept</div><div class="ttdoc">returns a const iterator to the first element</div><div class="ttdef"><b>Definition:</b> <a href="json_8hpp_source.html#l21021">json.hpp:21021</a></div></div>
-<div class="ttc" id="aclassnlohmann_1_1basic__json_aebd2cfa7e4ded4e97cde9269bfeeea38_html_aebd2cfa7e4ded4e97cde9269bfeeea38"><div class="ttname"><a href="classnlohmann_1_1basic__json_aebd2cfa7e4ded4e97cde9269bfeeea38.html#aebd2cfa7e4ded4e97cde9269bfeeea38">nlohmann::basic_json::const_iterator</a></div><div class="ttdeci">iter_impl&lt; const basic_json &gt; const_iterator</div><div class="ttdoc">a const iterator for a basic_json container</div><div class="ttdef"><b>Definition:</b> <a href="json_8hpp_source.html#l16792">json.hpp:16792</a></div></div>
-<div class="ttc" id="anamespacenlohmann_a2bfd99e845a2e5cd90aeaf1b1431f474_html_a2bfd99e845a2e5cd90aeaf1b1431f474"><div class="ttname"><a href="namespacenlohmann_a2bfd99e845a2e5cd90aeaf1b1431f474.html#a2bfd99e845a2e5cd90aeaf1b1431f474">nlohmann::json</a></div><div class="ttdeci">basic_json&lt;&gt; json</div><div class="ttdoc">default JSON class</div><div class="ttdef"><b>Definition:</b> <a href="json_8hpp_source.html#l02933">json.hpp:2933</a></div></div>
+<div class="ttc" id="aclassnlohmann_1_1basic__json_aebd2cfa7e4ded4e97cde9269bfeeea38_html_aebd2cfa7e4ded4e97cde9269bfeeea38"><div class="ttname"><a href="classnlohmann_1_1basic__json_aebd2cfa7e4ded4e97cde9269bfeeea38.html#aebd2cfa7e4ded4e97cde9269bfeeea38">nlohmann::basic_json::const_iterator</a></div><div class="ttdeci">iter_impl&lt; const basic_json &gt; const_iterator</div><div class="ttdoc">a const iterator for a basic_json container</div><div class="ttdef"><b>Definition:</b> <a href="json_8hpp_source.html#l16808">json.hpp:16808</a></div></div>
+<div class="ttc" id="anamespacenlohmann_a2bfd99e845a2e5cd90aeaf1b1431f474_html_a2bfd99e845a2e5cd90aeaf1b1431f474"><div class="ttname"><a href="namespacenlohmann_a2bfd99e845a2e5cd90aeaf1b1431f474.html#a2bfd99e845a2e5cd90aeaf1b1431f474">nlohmann::json</a></div><div class="ttdeci">basic_json&lt;&gt; json</div><div class="ttdoc">default JSON class</div><div class="ttdef"><b>Definition:</b> <a href="json_8hpp_source.html#l02940">json.hpp:2940</a></div></div>
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Wed Aug 12 2020 13:47:46 for JSON for Modern C++ by&#160;<a href="http://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.0
+Generated on Thu Aug 13 2020 10:52:35 for JSON for Modern C++ by&#160;<a href="http://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.0
 </small></address>
 </body>
 </html>

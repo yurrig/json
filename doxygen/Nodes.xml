@@ -1223,6 +1223,16 @@
                 <Path>classnlohmann_1_1basic__json_aee0ae36cbfb0336832ebc0374c3c7679.html</Path>
                 <Anchor>aee0ae36cbfb0336832ebc0374c3c7679</Anchor>
                </Node>
+               <Node>
+                <Name>__pad3__</Name>
+                <Path>classnlohmann_1_1basic__json_aa52fb28bbfe1d5484808cad53c35d76c.html</Path>
+                <Anchor>aa52fb28bbfe1d5484808cad53c35d76c</Anchor>
+               </Node>
+               <Node>
+                <Name>m_value</Name>
+                <Path>classnlohmann_1_1basic__json_a72f1c0ede41f166429ce3fe7c2ffefc0.html</Path>
+                <Anchor>a72f1c0ede41f166429ce3fe7c2ffefc0</Anchor>
+               </Node>
               </Subnodes>
              </Node>
              <Node>
@@ -1658,8 +1668,12 @@
             <Path>functions.html</Path>
             <Subnodes>
              <Node>
-              <Name>a</Name>
+              <Name>_</Name>
               <Path>functions.html</Path>
+             </Node>
+             <Node>
+              <Name>a</Name>
+              <Path>functions_a.html</Path>
              </Node>
              <Node>
               <Name>b</Name>
@@ -1832,6 +1846,10 @@
               <Path>functions_func_~.html</Path>
              </Node>
             </Subnodes>
+           </Node>
+           <Node>
+            <Name>Variables</Name>
+            <Path>functions_vars.html</Path>
            </Node>
            <Node>
             <Name>Typedefs</Name>

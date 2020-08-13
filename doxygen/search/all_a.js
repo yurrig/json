@@ -1,5 +1,9 @@
 var searchData=
 [
-  ['key_86',['key',['../structnlohmann_1_1json__sax_a2e0c7ecd80b18d18a8cc76f71cfc2028.html#a2e0c7ecd80b18d18a8cc76f71cfc2028',1,'nlohmann::json_sax']]],
-  ['key_5ftype_87',['key_type',['../structnlohmann_1_1ordered__map_a57095c6ed403f02e1bc2c240a13c9ed8.html#a57095c6ed403f02e1bc2c240a13c9ed8',1,'nlohmann::ordered_map']]]
+  ['json_20for_20modern_20c_2b_2b_81',['JSON for Modern C++',['../index.html',1,'']]],
+  ['json_82',['json',['../namespacenlohmann_a2bfd99e845a2e5cd90aeaf1b1431f474.html#a2bfd99e845a2e5cd90aeaf1b1431f474',1,'nlohmann']]],
+  ['json_5fpointer_83',['json_pointer',['../classnlohmann_1_1json__pointer.html',1,'nlohmann::json_pointer&lt; BasicJsonType &gt;'],['../classnlohmann_1_1basic__json_aa8f1f93b32da01b42413643be32b2c27.html#aa8f1f93b32da01b42413643be32b2c27',1,'nlohmann::basic_json::json_pointer()'],['../classnlohmann_1_1json__pointer_a7f32d7c62841f0c4a6784cf741a6e4f8.html#a7f32d7c62841f0c4a6784cf741a6e4f8',1,'nlohmann::json_pointer::json_pointer()']]],
+  ['json_5fsax_84',['json_sax',['../structnlohmann_1_1json__sax.html',1,'nlohmann']]],
+  ['json_5fsax_5ft_85',['json_sax_t',['../classnlohmann_1_1basic__json_a164b1094a1a9feb54e400d8510bb0b12.html#a164b1094a1a9feb54e400d8510bb0b12',1,'nlohmann::basic_json']]],
+  ['json_5fserializer_86',['json_serializer',['../classnlohmann_1_1basic__json_ad6ebc5da7ced975bb184133750e7d49f.html#ad6ebc5da7ced975bb184133750e7d49f',1,'nlohmann::basic_json']]]
 ];

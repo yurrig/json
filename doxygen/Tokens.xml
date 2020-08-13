@@ -244,6 +244,27 @@
   </Token>
   <Token>
     <TokenIdentifier>
+      <Name>__pad3__</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+      <Scope>nlohmann::basic_json</Scope>
+    </TokenIdentifier>
+    <Path>classnlohmann_1_1basic__json_aa52fb28bbfe1d5484808cad53c35d76c.html</Path>
+    <Anchor>aa52fb28bbfe1d5484808cad53c35d76c</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>m_value</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+      <Scope>nlohmann::basic_json</Scope>
+    </TokenIdentifier>
+    <Path>classnlohmann_1_1basic__json_a72f1c0ede41f166429ce3fe7c2ffefc0.html</Path>
+    <Anchor>a72f1c0ede41f166429ce3fe7c2ffefc0</Anchor>
+    <Abstract>the value of the current element</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
       <Name>detail::external_constructor</Name>
       <APILanguage>cpp</APILanguage>
       <Type>ffunc</Type>

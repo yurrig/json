@@ -124,6 +124,20 @@
       <anchor>a351b4f65014f6c2b8b2832847d44bbd7</anchor>
       <arglist>()</arglist>
     </member>
+    <member kind="variable">
+      <type>JSON_PRIVATE_UNLESS_TESTED</type>
+      <name>__pad3__</name>
+      <anchorfile>classnlohmann_1_1basic__json_aa52fb28bbfe1d5484808cad53c35d76c.html</anchorfile>
+      <anchor>aa52fb28bbfe1d5484808cad53c35d76c</anchor>
+      <arglist></arglist>
+    </member>
+    <member kind="variable">
+      <type>json_value</type>
+      <name>m_value</name>
+      <anchorfile>classnlohmann_1_1basic__json_a72f1c0ede41f166429ce3fe7c2ffefc0.html</anchorfile>
+      <anchor>a72f1c0ede41f166429ce3fe7c2ffefc0</anchor>
+      <arglist></arglist>
+    </member>
     <member kind="friend">
       <type>friend struct</type>
       <name>detail::external_constructor</name>
