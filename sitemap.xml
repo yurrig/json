@@ -252,6 +252,22 @@
      <lastmod>2020-08-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/from_bson/</loc>
+     <lastmod>2020-08-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/from_cbor/</loc>
+     <lastmod>2020-08-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/from_msgpack/</loc>
+     <lastmod>2020-08-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/from_ubjson/</loc>
+     <lastmod>2020-08-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/front/</loc>
      <lastmod>2020-08-13</lastmod>
      <changefreq>daily</changefreq>
@@ -372,6 +388,14 @@
      <lastmod>2020-08-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator%22%22_json/</loc>
+     <lastmod>2020-08-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator%22%22_json_pointer/</loc>
+     <lastmod>2020-08-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/parse/</loc>
      <lastmod>2020-08-13</lastmod>
      <changefreq>daily</changefreq>
@@ -412,6 +436,22 @@
      <lastmod>2020-08-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/to_bson/</loc>
+     <lastmod>2020-08-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/to_cbor/</loc>
+     <lastmod>2020-08-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/to_msgpack/</loc>
+     <lastmod>2020-08-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/to_ubjson/</loc>
+     <lastmod>2020-08-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/type/</loc>
      <lastmod>2020-08-13</lastmod>
      <changefreq>daily</changefreq>
@@ -437,6 +477,10 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/json/</loc>
+     <lastmod>2020-08-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/json_pointer/</loc>
      <lastmod>2020-08-13</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
