@@ -292,6 +292,10 @@
      <lastmod>2020-08-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/invalid_iterator/</loc>
+     <lastmod>2020-08-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/is_array/</loc>
      <lastmod>2020-08-14</lastmod>
      <changefreq>daily</changefreq>
@@ -412,7 +416,19 @@
      <lastmod>2020-08-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/out_of_range/</loc>
+     <lastmod>2020-08-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/other_error/</loc>
+     <lastmod>2020-08-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/parse/</loc>
+     <lastmod>2020-08-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/parse_error/</loc>
      <lastmod>2020-08-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -469,6 +485,10 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/type/</loc>
+     <lastmod>2020-08-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/type_error/</loc>
      <lastmod>2020-08-14</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
