@@ -444,7 +444,15 @@
      <lastmod>2020-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator%3C%3D/</loc>
+     <lastmod>2020-08-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator%3E/</loc>
+     <lastmod>2020-08-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator%3E%3D/</loc>
      <lastmod>2020-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
