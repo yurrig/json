@@ -1,587 +1,587 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://squidfunk.github.io/mkdocs-material/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/home/license/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/home/code_of_conduct/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/home/faq/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/home/exceptions/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/home/releases/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/home/design_goals/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/home/sponsors/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/arbitrary_types/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/binary_formats/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/binary_formats/bson/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/binary_formats/cbor/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/binary_formats/messagepack/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/binary_formats/ubjson/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/binary_values/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/comments/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/element_access/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/element_access/unchecked_access/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/element_access/checked_access/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/element_access/default_value/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/iterators/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/json_pointer/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/json_patch/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/merge_patch/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/object_order/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/parsing/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/parsing/parse_exceptions/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/parsing/parser_callbacks/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/parsing/sax_interface/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/enum_conversion/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/macros/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/features/types/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/integration/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/integration/cmake/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/integration/package_managers/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/accept/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/array/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/array_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/at/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/back/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/basic_json/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/~basic_json/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/begin/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/binary/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/binary_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/boolean_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/cbegin/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/cbor_tag_handler_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/cend/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/clear/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/contains/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/count/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/crbegin/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/crend/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/diff/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/dump/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/emplace/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/emplace_back/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/empty/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/end/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/erase/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/error_handler_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/exception/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/find/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/flatten/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/from_bson/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/from_cbor/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/from_msgpack/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/from_ubjson/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/front/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/get/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/get_allocator/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/get_binary/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/get_ptr/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/get_ref/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/get_to/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/input_format_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/insert/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/invalid_iterator/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/is_array/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/is_binary/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/is_boolean/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/is_discarded/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/is_null/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/is_number/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/is_number_float/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/is_number_integer/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/is_number_unsigned/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/is_object/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/is_primitive/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/is_string/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/is_structured/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/items/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/json_serializer/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/max_size/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/meta/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/merge_patch/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/number_float_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/number_integer_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/number_unsigned_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/object/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/object_comparator_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/object_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator_ValueType/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator_value_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator%5B%5D/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator%3D/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator_eq/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator_ne/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator_lt/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator_le/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator_gt/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator_ge/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator%2B%3D/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator_literal_json/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/operator_literal_json_pointer/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/out_of_range/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/other_error/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/parse/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/parse_error/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/parse_event_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/parser_callback_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/patch/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/push_back/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/rbegin/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/rend/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/sax_parse/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/size/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/string_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/to_bson/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/to_cbor/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/to_msgpack/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/to_ubjson/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/type/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/type_error/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/type_name/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/unflatten/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/update/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/value/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/basic_json/value_t/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/adl_serializer/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/json/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/json_pointer/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/ordered_map/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/api/ordered_json/</loc>
-     <lastmod>2020-08-20</lastmod>
+     <lastmod>2020-12-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

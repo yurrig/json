@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
-<tagfile doxygen_version="1.9.0" doxygen_gitid="8e87f6bb404065d2c8802a9c61756e3c7a729fb1*">
+<tagfile doxygen_version="1.8.20">
   <compound kind="struct">
     <name>nlohmann::adl_serializer</name>
     <filename>structnlohmann_1_1adl__serializer.html</filename>
