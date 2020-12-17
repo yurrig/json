@@ -3,12 +3,23 @@ name: macOS_self_hosted
 on: [push, pull_request]
 
 jobs:
-  build:
-
+  checkout:
     runs-on: self-hosted
-
     steps:
-    - uses: actions/checkout@v1
+    - name: checkout
+      uses: actions/checkout@v1
+
+  lint:
+    runs-on: self-hosted
+    needs: checkout
+    steps:
+    - name: pedantic
+      run: make pedantic_clang
+
+  build:
+    runs-on: self-hosted
+    needs: checkout
+    steps:
     - name: cmake
       run: cmake -S . -B build -D CMAKE_BUILD_TYPE=Debug -DJSON_BuildTests=On
     - name: build
