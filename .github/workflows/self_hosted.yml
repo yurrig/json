@@ -9,12 +9,19 @@ jobs:
     - name: checkout
       uses: actions/checkout@v1
 
-  lint:
+  pedantic_clang:
     runs-on: self-hosted
     needs: checkout
     steps:
     - name: pedantic
       run: make pedantic_clang
+
+  pedantic_gcc:
+    runs-on: self-hosted
+    needs: checkout
+    steps:
+    - name: pedantic
+      run: CXX=/usr/local/bin/g++-10 make pedantic_gcc
 
   build:
     runs-on: self-hosted
