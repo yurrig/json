@@ -12,7 +12,7 @@ var searchData=
   ['container_24',['Container',['../structnlohmann_1_1ordered__map_a0cabe346c38a4f1ab1b8a396fbd2bbe2.html#a0cabe346c38a4f1ab1b8a396fbd2bbe2',1,'nlohmann::ordered_map']]],
   ['container_5ftype_25',['container_type',['../classnlohmann_1_1byte__container__with__subtype_a4d27e8633c5a5e3b49dd4ccb06515713.html#a4d27e8633c5a5e3b49dd4ccb06515713',1,'nlohmann::byte_container_with_subtype']]],
   ['contains_26',['contains',['../classnlohmann_1_1basic__json_a02c9bc4d0f33b7dec20b2798301d6971.html#a02c9bc4d0f33b7dec20b2798301d6971',1,'nlohmann::basic_json::contains(KeyT &amp;&amp;key) const'],['../classnlohmann_1_1basic__json_adb82c1f34c73486e013da71ae369e597.html#adb82c1f34c73486e013da71ae369e597',1,'nlohmann::basic_json::contains(const json_pointer &amp;ptr) const']]],
-  ['count_27',['count',['../structnlohmann_1_1ordered__map_aee2c188dcc802d6b28910f707a5e637b.html#aee2c188dcc802d6b28910f707a5e637b',1,'nlohmann::ordered_map::count()'],['../classnlohmann_1_1basic__json_aba5ec6d1e37eda6b11eba491a1e5237e.html#aba5ec6d1e37eda6b11eba491a1e5237e',1,'nlohmann::basic_json::count()']]],
+  ['count_27',['count',['../structnlohmann_1_1ordered__map_aee2c188dcc802d6b28910f707a5e637b.html#aee2c188dcc802d6b28910f707a5e637b',1,'nlohmann::ordered_map::count()'],['../classnlohmann_1_1basic__json_aba5ec6d1e37eda6b11eba491a1e5237e.html#aba5ec6d1e37eda6b11eba491a1e5237e',1,'nlohmann::basic_json::count(KeyT &amp;&amp;key) const']]],
   ['crbegin_28',['crbegin',['../classnlohmann_1_1basic__json_a044298d189bdf7e4b36492de9811ddd6.html#a044298d189bdf7e4b36492de9811ddd6',1,'nlohmann::basic_json']]],
   ['crend_29',['crend',['../classnlohmann_1_1basic__json_a223480466a0922267d680ec8f0722d58.html#a223480466a0922267d680ec8f0722d58',1,'nlohmann::basic_json']]]
 ];

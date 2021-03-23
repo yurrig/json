@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['emplace_35',['emplace',['../structnlohmann_1_1ordered__map_a38834c948b844033caa7d5c76fee5866.html#a38834c948b844033caa7d5c76fee5866',1,'nlohmann::ordered_map::emplace()'],['../classnlohmann_1_1basic__json_ac479e609cbd03948bd3e85fb441b66e5.html#ac479e609cbd03948bd3e85fb441b66e5',1,'nlohmann::basic_json::emplace()']]],
+  ['emplace_35',['emplace',['../structnlohmann_1_1ordered__map_a38834c948b844033caa7d5c76fee5866.html#a38834c948b844033caa7d5c76fee5866',1,'nlohmann::ordered_map::emplace()'],['../classnlohmann_1_1basic__json_ac479e609cbd03948bd3e85fb441b66e5.html#ac479e609cbd03948bd3e85fb441b66e5',1,'nlohmann::basic_json::emplace(Args &amp;&amp;... args)']]],
   ['emplace_5fback_36',['emplace_back',['../classnlohmann_1_1basic__json_a15c0a5db4fb12d49433801bbe6436bfb.html#a15c0a5db4fb12d49433801bbe6436bfb',1,'nlohmann::basic_json']]],
-  ['empty_37',['empty',['../classnlohmann_1_1json__pointer_a649252bda4a2e75a0915b11a25d8bcc3.html#a649252bda4a2e75a0915b11a25d8bcc3',1,'nlohmann::json_pointer::empty()'],['../classnlohmann_1_1basic__json_a5c99855f3e35ff35558cb46139b785f8.html#a5c99855f3e35ff35558cb46139b785f8',1,'nlohmann::basic_json::empty()']]],
+  ['empty_37',['empty',['../classnlohmann_1_1json__pointer_a649252bda4a2e75a0915b11a25d8bcc3.html#a649252bda4a2e75a0915b11a25d8bcc3',1,'nlohmann::json_pointer::empty()'],['../classnlohmann_1_1basic__json_a5c99855f3e35ff35558cb46139b785f8.html#a5c99855f3e35ff35558cb46139b785f8',1,'nlohmann::basic_json::empty() const noexcept']]],
   ['end_38',['end',['../classnlohmann_1_1basic__json_a931267ec3f09eb67e4382f321b2c52bc.html#a931267ec3f09eb67e4382f321b2c52bc',1,'nlohmann::basic_json::end() noexcept'],['../classnlohmann_1_1basic__json_a82b5b96f86879a3bac0c713d33178551.html#a82b5b96f86879a3bac0c713d33178551',1,'nlohmann::basic_json::end() const noexcept']]],
   ['end_5farray_39',['end_array',['../structnlohmann_1_1json__sax_a235ee975617f28e6a996d1e36a282312.html#a235ee975617f28e6a996d1e36a282312',1,'nlohmann::json_sax']]],
   ['end_5fobject_40',['end_object',['../structnlohmann_1_1json__sax_ad0c722d53ff97be700ccf6a9468bd456.html#ad0c722d53ff97be700ccf6a9468bd456',1,'nlohmann::json_sax']]],
