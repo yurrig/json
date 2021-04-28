@@ -8,16 +8,23 @@
     <member kind="function" static="yes">
       <type>static auto</type>
       <name>from_json</name>
-      <anchorfile>structnlohmann_1_1adl__serializer_a2c544585b8b1828a0f1eecd831d0496e.html</anchorfile>
-      <anchor>a2c544585b8b1828a0f1eecd831d0496e</anchor>
-      <arglist>(BasicJsonType &amp;&amp;j, ValueType &amp;val) noexcept(noexcept(::nlohmann::from_json(std::forward&lt; BasicJsonType &gt;(j), val))) -&gt; decltype(::nlohmann::from_json(std::forward&lt; BasicJsonType &gt;(j), val), void())</arglist>
+      <anchorfile>structnlohmann_1_1adl__serializer_abdae6028cdef1bf1838b47eeb7022ebc.html</anchorfile>
+      <anchor>abdae6028cdef1bf1838b47eeb7022ebc</anchor>
+      <arglist>(BasicJsonType &amp;&amp;j) noexcept(noexcept(::nlohmann::from_json(std::forward&lt; BasicJsonType &gt;(j), detail::identity_tag&lt; TargetType &gt; {}))) -&gt; decltype(::nlohmann::from_json(std::forward&lt; BasicJsonType &gt;(j), detail::identity_tag&lt; TargetType &gt; {}))</arglist>
+    </member>
+    <member kind="function" static="yes">
+      <type>static auto</type>
+      <name>from_json</name>
+      <anchorfile>structnlohmann_1_1adl__serializer_a8180f52bf21fc610705bc521f22116ae.html</anchorfile>
+      <anchor>a8180f52bf21fc610705bc521f22116ae</anchor>
+      <arglist>(BasicJsonType &amp;&amp;j, TargetType &amp;val) noexcept(noexcept(::nlohmann::from_json(std::forward&lt; BasicJsonType &gt;(j), val))) -&gt; decltype(::nlohmann::from_json(std::forward&lt; BasicJsonType &gt;(j), val), void())</arglist>
     </member>
     <member kind="function" static="yes">
       <type>static auto</type>
       <name>to_json</name>
-      <anchorfile>structnlohmann_1_1adl__serializer_a01b867bd5dce5249d4f7433b8f27def6.html</anchorfile>
-      <anchor>a01b867bd5dce5249d4f7433b8f27def6</anchor>
-      <arglist>(BasicJsonType &amp;j, ValueType &amp;&amp;val) noexcept(noexcept(::nlohmann::to_json(j, std::forward&lt; ValueType &gt;(val)))) -&gt; decltype(::nlohmann::to_json(j, std::forward&lt; ValueType &gt;(val)), void())</arglist>
+      <anchorfile>structnlohmann_1_1adl__serializer_afdcc8f0204ce8ac7d28a5403f6e1f0e7.html</anchorfile>
+      <anchor>afdcc8f0204ce8ac7d28a5403f6e1f0e7</anchor>
+      <arglist>(BasicJsonType &amp;j, TargetType &amp;&amp;val) noexcept(noexcept(::nlohmann::to_json(j, std::forward&lt; TargetType &gt;(val)))) -&gt; decltype(::nlohmann::to_json(j, std::forward&lt; TargetType &gt;(val)), void())</arglist>
     </member>
   </compound>
   <compound kind="class">
@@ -533,16 +540,16 @@
     <member kind="friend">
       <type>friend bool</type>
       <name>operator==</name>
-      <anchorfile>classnlohmann_1_1basic__json_aba21440ea1aff44f718285ed7d6d20d9.html</anchorfile>
-      <anchor>aba21440ea1aff44f718285ed7d6d20d9</anchor>
-      <arglist>(const_reference lhs, const ScalarType rhs) noexcept</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a107a085c92ec4e062d1185b2d09c7978.html</anchorfile>
+      <anchor>a107a085c92ec4e062d1185b2d09c7978</anchor>
+      <arglist>(const_reference lhs, ScalarType rhs) noexcept</arglist>
     </member>
     <member kind="friend">
       <type>friend bool</type>
       <name>operator==</name>
-      <anchorfile>classnlohmann_1_1basic__json_aef302e3ae215e46e5035d0e4fdf47235.html</anchorfile>
-      <anchor>aef302e3ae215e46e5035d0e4fdf47235</anchor>
-      <arglist>(const ScalarType lhs, const_reference rhs) noexcept</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a24ae7acd5b06ae49cfe1c94633436b68.html</anchorfile>
+      <anchor>a24ae7acd5b06ae49cfe1c94633436b68</anchor>
+      <arglist>(ScalarType lhs, const_reference rhs) noexcept</arglist>
     </member>
     <member kind="friend">
       <type>friend bool</type>
@@ -554,16 +561,16 @@
     <member kind="friend">
       <type>friend bool</type>
       <name>operator!=</name>
-      <anchorfile>classnlohmann_1_1basic__json_afefc38fc08bdb7a9a7474b5ab4a1140f.html</anchorfile>
-      <anchor>afefc38fc08bdb7a9a7474b5ab4a1140f</anchor>
-      <arglist>(const_reference lhs, const ScalarType rhs) noexcept</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a4d581dc2ab78091885f9af24d13749dc.html</anchorfile>
+      <anchor>a4d581dc2ab78091885f9af24d13749dc</anchor>
+      <arglist>(const_reference lhs, ScalarType rhs) noexcept</arglist>
     </member>
     <member kind="friend">
       <type>friend bool</type>
       <name>operator!=</name>
-      <anchorfile>classnlohmann_1_1basic__json_ab0e886db6e9fa91ff9fd853333fed05b.html</anchorfile>
-      <anchor>ab0e886db6e9fa91ff9fd853333fed05b</anchor>
-      <arglist>(const ScalarType lhs, const_reference rhs) noexcept</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_aa9861979059799375c0fff68174610ba.html</anchorfile>
+      <anchor>aa9861979059799375c0fff68174610ba</anchor>
+      <arglist>(ScalarType lhs, const_reference rhs) noexcept</arglist>
     </member>
     <member kind="friend">
       <type>friend bool</type>
@@ -575,16 +582,16 @@
     <member kind="friend">
       <type>friend bool</type>
       <name>operator&lt;</name>
-      <anchorfile>classnlohmann_1_1basic__json_a7999ee3a69a4979d92e98ab1e88c8759.html</anchorfile>
-      <anchor>a7999ee3a69a4979d92e98ab1e88c8759</anchor>
-      <arglist>(const_reference lhs, const ScalarType rhs) noexcept</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a52907b78829a55473f2548530cf2c1c7.html</anchorfile>
+      <anchor>a52907b78829a55473f2548530cf2c1c7</anchor>
+      <arglist>(const_reference lhs, ScalarType rhs) noexcept</arglist>
     </member>
     <member kind="friend">
       <type>friend bool</type>
       <name>operator&lt;</name>
-      <anchorfile>classnlohmann_1_1basic__json_abed3e9b4ab75f5bcbd3cd20f5af5cdab.html</anchorfile>
-      <anchor>abed3e9b4ab75f5bcbd3cd20f5af5cdab</anchor>
-      <arglist>(const ScalarType lhs, const_reference rhs) noexcept</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a71f65ff3abee4c140e27ca64fa327973.html</anchorfile>
+      <anchor>a71f65ff3abee4c140e27ca64fa327973</anchor>
+      <arglist>(ScalarType lhs, const_reference rhs) noexcept</arglist>
     </member>
     <member kind="friend">
       <type>friend bool</type>
@@ -596,16 +603,16 @@
     <member kind="friend">
       <type>friend bool</type>
       <name>operator&lt;=</name>
-      <anchorfile>classnlohmann_1_1basic__json_a7e368211047f725f333696aefdf39ffd.html</anchorfile>
-      <anchor>a7e368211047f725f333696aefdf39ffd</anchor>
-      <arglist>(const_reference lhs, const ScalarType rhs) noexcept</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_ae7bce6989e2bf72aa0784ca6755e22a9.html</anchorfile>
+      <anchor>ae7bce6989e2bf72aa0784ca6755e22a9</anchor>
+      <arglist>(const_reference lhs, ScalarType rhs) noexcept</arglist>
     </member>
     <member kind="friend">
       <type>friend bool</type>
       <name>operator&lt;=</name>
-      <anchorfile>classnlohmann_1_1basic__json_ad73f88f70fe5acfa521750a8cd710026.html</anchorfile>
-      <anchor>ad73f88f70fe5acfa521750a8cd710026</anchor>
-      <arglist>(const ScalarType lhs, const_reference rhs) noexcept</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a4e96b98c1f8dfccaaa94aa0d5e77427c.html</anchorfile>
+      <anchor>a4e96b98c1f8dfccaaa94aa0d5e77427c</anchor>
+      <arglist>(ScalarType lhs, const_reference rhs) noexcept</arglist>
     </member>
     <member kind="friend">
       <type>friend bool</type>
@@ -617,16 +624,16 @@
     <member kind="friend">
       <type>friend bool</type>
       <name>operator&gt;</name>
-      <anchorfile>classnlohmann_1_1basic__json_a412895af9a582869a4d369a64fb1b6d6.html</anchorfile>
-      <anchor>a412895af9a582869a4d369a64fb1b6d6</anchor>
-      <arglist>(const_reference lhs, const ScalarType rhs) noexcept</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a9ea8e0e86820fcb3ab0fc937d41226e7.html</anchorfile>
+      <anchor>a9ea8e0e86820fcb3ab0fc937d41226e7</anchor>
+      <arglist>(const_reference lhs, ScalarType rhs) noexcept</arglist>
     </member>
     <member kind="friend">
       <type>friend bool</type>
       <name>operator&gt;</name>
-      <anchorfile>classnlohmann_1_1basic__json_a124c319566198d9f092c5bebea46ce77.html</anchorfile>
-      <anchor>a124c319566198d9f092c5bebea46ce77</anchor>
-      <arglist>(const ScalarType lhs, const_reference rhs) noexcept</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a67771044f08fd07105b34667615d9e0e.html</anchorfile>
+      <anchor>a67771044f08fd07105b34667615d9e0e</anchor>
+      <arglist>(ScalarType lhs, const_reference rhs) noexcept</arglist>
     </member>
     <member kind="friend">
       <type>friend bool</type>
@@ -638,16 +645,16 @@
     <member kind="friend">
       <type>friend bool</type>
       <name>operator&gt;=</name>
-      <anchorfile>classnlohmann_1_1basic__json_a68e3a92b3d9be1faa05c92d096299189.html</anchorfile>
-      <anchor>a68e3a92b3d9be1faa05c92d096299189</anchor>
-      <arglist>(const_reference lhs, const ScalarType rhs) noexcept</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_ab83d11de4db25633f93e067aa218cae9.html</anchorfile>
+      <anchor>ab83d11de4db25633f93e067aa218cae9</anchor>
+      <arglist>(const_reference lhs, ScalarType rhs) noexcept</arglist>
     </member>
     <member kind="friend">
       <type>friend bool</type>
       <name>operator&gt;=</name>
-      <anchorfile>classnlohmann_1_1basic__json_a5ee0e3e8afc7cbd932d6ed66418fa80a.html</anchorfile>
-      <anchor>a5ee0e3e8afc7cbd932d6ed66418fa80a</anchor>
-      <arglist>(const ScalarType lhs, const_reference rhs) noexcept</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_a94c61e0128f0794e7a34e1aecee5c445.html</anchorfile>
+      <anchor>a94c61e0128f0794e7a34e1aecee5c445</anchor>
+      <arglist>(ScalarType lhs, const_reference rhs) noexcept</arglist>
     </member>
     <member kind="friend">
       <type>friend std::ostream &amp;</type>
@@ -740,6 +747,90 @@
       <anchor>aef9ef0a817ecde8bf270653e8706c150</anchor>
       <arglist>(detail::span_input_adapter &amp;&amp;i, SAX *sax, input_format_t format=input_format_t::json, const bool strict=true, const bool ignore_comments=false)</arglist>
     </member>
+    <member kind="function">
+      <type>auto</type>
+      <name>get_ptr</name>
+      <anchorfile>classnlohmann_1_1basic__json_a85222410e03d8f5c8ff9c78cf9f6b1b6.html</anchorfile>
+      <anchor>a85222410e03d8f5c8ff9c78cf9f6b1b6</anchor>
+      <arglist>() noexcept -&gt; decltype(std::declval&lt; basic_json_t &amp; &gt;().get_impl_ptr(std::declval&lt; PointerType &gt;()))</arglist>
+    </member>
+    <member kind="function">
+      <type>constexpr auto</type>
+      <name>get_ptr</name>
+      <anchorfile>classnlohmann_1_1basic__json_afd99a3902a2bb09a306fb854540ae1dd.html</anchorfile>
+      <anchor>afd99a3902a2bb09a306fb854540ae1dd</anchor>
+      <arglist>() const noexcept -&gt; decltype(std::declval&lt; const basic_json_t &amp; &gt;().get_impl_ptr(std::declval&lt; PointerType &gt;()))</arglist>
+    </member>
+    <member kind="function">
+      <type>auto</type>
+      <name>get</name>
+      <anchorfile>classnlohmann_1_1basic__json_af1650e004db368459b3c0db041b32adc.html</anchorfile>
+      <anchor>af1650e004db368459b3c0db041b32adc</anchor>
+      <arglist>() const noexcept(noexcept(std::declval&lt; const basic_json_t &amp; &gt;().template get_impl&lt; ValueType &gt;(detail::priority_tag&lt; 4 &gt; {}))) -&gt; decltype(std::declval&lt; const basic_json_t &amp; &gt;().template get_impl&lt; ValueType &gt;(detail::priority_tag&lt; 4 &gt; {}))</arglist>
+    </member>
+    <member kind="function">
+      <type>auto</type>
+      <name>get</name>
+      <anchorfile>classnlohmann_1_1basic__json_a826e180d2457d114ed4c51f4b0737df8.html</anchorfile>
+      <anchor>a826e180d2457d114ed4c51f4b0737df8</anchor>
+      <arglist>() noexcept -&gt; decltype(std::declval&lt; basic_json_t &amp; &gt;().template get_ptr&lt; PointerType &gt;())</arglist>
+    </member>
+    <member kind="function">
+      <type>ValueType &amp;</type>
+      <name>get_to</name>
+      <anchorfile>classnlohmann_1_1basic__json_aa1cbe06eb6b15f76e41c7c85081d2638.html</anchorfile>
+      <anchor>aa1cbe06eb6b15f76e41c7c85081d2638</anchor>
+      <arglist>(ValueType &amp;v) const noexcept(noexcept(JSONSerializer&lt; ValueType &gt;::from_json(std::declval&lt; const basic_json_t &amp; &gt;(), v)))</arglist>
+    </member>
+    <member kind="function">
+      <type>ValueType &amp;</type>
+      <name>get_to</name>
+      <anchorfile>classnlohmann_1_1basic__json_ac6fd6c12364425e4007ee4d7ecf9fefd.html</anchorfile>
+      <anchor>ac6fd6c12364425e4007ee4d7ecf9fefd</anchor>
+      <arglist>(ValueType &amp;v) const</arglist>
+    </member>
+    <member kind="function">
+      <type>Array</type>
+      <name>get_to</name>
+      <anchorfile>classnlohmann_1_1basic__json_a85dd41000e4e7751928fffb44ff4aed4.html</anchorfile>
+      <anchor>a85dd41000e4e7751928fffb44ff4aed4</anchor>
+      <arglist>(T(&amp;v)[N]) const noexcept(noexcept(JSONSerializer&lt; Array &gt;::from_json(std::declval&lt; const basic_json_t &amp; &gt;(), v)))</arglist>
+    </member>
+    <member kind="function">
+      <type>ReferenceType</type>
+      <name>get_ref</name>
+      <anchorfile>classnlohmann_1_1basic__json_a14ddc6e0f6d70296bc81f810254076c5.html</anchorfile>
+      <anchor>a14ddc6e0f6d70296bc81f810254076c5</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>ReferenceType</type>
+      <name>get_ref</name>
+      <anchorfile>classnlohmann_1_1basic__json_a7f0889072c54f1b899689ed6246238e7.html</anchorfile>
+      <anchor>a7f0889072c54f1b899689ed6246238e7</anchor>
+      <arglist>() const</arglist>
+    </member>
+    <member kind="function">
+      <type>JSON_EXPLICIT</type>
+      <name>operator ValueType</name>
+      <anchorfile>classnlohmann_1_1basic__json_ada1463d8d7ba77865f28f5e83dec7f33.html</anchorfile>
+      <anchor>ada1463d8d7ba77865f28f5e83dec7f33</anchor>
+      <arglist>() const</arglist>
+    </member>
+    <member kind="function">
+      <type>binary_t &amp;</type>
+      <name>get_binary</name>
+      <anchorfile>classnlohmann_1_1basic__json_aab19a246f6bcd27c195bed376cf5e138.html</anchorfile>
+      <anchor>aab19a246f6bcd27c195bed376cf5e138</anchor>
+      <arglist>()</arglist>
+    </member>
+    <member kind="function">
+      <type>const binary_t &amp;</type>
+      <name>get_binary</name>
+      <anchorfile>classnlohmann_1_1basic__json_abbfa5532931abd2d9040cbf4d18a2ca7.html</anchorfile>
+      <anchor>abbfa5532931abd2d9040cbf4d18a2ca7</anchor>
+      <arglist>() const</arglist>
+    </member>
     <member kind="function" static="yes">
       <type>static JSON_HEDLEY_WARN_UNUSED_RESULT basic_json</type>
       <name>binary</name>
@@ -799,9 +890,9 @@
     <member kind="function">
       <type></type>
       <name>basic_json</name>
-      <anchorfile>classnlohmann_1_1basic__json_a1b5d76a1546257689ad260ed34ec20b5.html</anchorfile>
-      <anchor>a1b5d76a1546257689ad260ed34ec20b5</anchor>
-      <arglist>(CompatibleType &amp;&amp;val) noexcept(noexcept(JSONSerializer&lt; U &gt;::to_json(std::declval&lt; basic_json_t &amp; &gt;(), std::forward&lt; CompatibleType &gt;(val))))</arglist>
+      <anchorfile>classnlohmann_1_1basic__json_adda5ebaff0503f92c8b3d65cfb610ea5.html</anchorfile>
+      <anchor>adda5ebaff0503f92c8b3d65cfb610ea5</anchor>
+      <arglist>(CompatibleType &amp;&amp;val) noexcept(noexcept(//NOLINT(bugprone-forwarding-reference-overload, bugprone-exception-escape) JSONSerializer&lt; U &gt;::to_json(std::declval&lt; basic_json_t &amp; &gt;(), std::forward&lt; CompatibleType &gt;(val))))</arglist>
     </member>
     <member kind="function">
       <type></type>
@@ -1299,118 +1390,6 @@
       <anchorfile>classnlohmann_1_1basic__json_a6d4b8df10ecc533a50823e8805f4a873.html</anchorfile>
       <anchor>a6d4b8df10ecc533a50823e8805f4a873</anchor>
       <arglist>() const noexcept</arglist>
-    </member>
-    <member kind="function">
-      <type>basic_json</type>
-      <name>get</name>
-      <anchorfile>classnlohmann_1_1basic__json_a0c42bdda2432e4027f4b63ef20ae74e6.html</anchorfile>
-      <anchor>a0c42bdda2432e4027f4b63ef20ae74e6</anchor>
-      <arglist>() const</arglist>
-    </member>
-    <member kind="function">
-      <type>BasicJsonType</type>
-      <name>get</name>
-      <anchorfile>classnlohmann_1_1basic__json_a642213bf5f206f13d2447098b737bee7.html</anchorfile>
-      <anchor>a642213bf5f206f13d2447098b737bee7</anchor>
-      <arglist>() const</arglist>
-    </member>
-    <member kind="function">
-      <type>ValueType</type>
-      <name>get</name>
-      <anchorfile>classnlohmann_1_1basic__json_a91198163e5ffd34d361d2db77cb1f112.html</anchorfile>
-      <anchor>a91198163e5ffd34d361d2db77cb1f112</anchor>
-      <arglist>() const noexcept(noexcept(JSONSerializer&lt; ValueType &gt;::from_json(std::declval&lt; const basic_json_t &amp; &gt;(), std::declval&lt; ValueType &amp; &gt;())))</arglist>
-    </member>
-    <member kind="function">
-      <type>ValueType</type>
-      <name>get</name>
-      <anchorfile>classnlohmann_1_1basic__json_ad7c84027412c32e6dac101de144abf91.html</anchorfile>
-      <anchor>ad7c84027412c32e6dac101de144abf91</anchor>
-      <arglist>() const noexcept(noexcept(JSONSerializer&lt; ValueType &gt;::from_json(std::declval&lt; const basic_json_t &amp; &gt;())))</arglist>
-    </member>
-    <member kind="function">
-      <type>ValueType &amp;</type>
-      <name>get_to</name>
-      <anchorfile>classnlohmann_1_1basic__json_aa1cbe06eb6b15f76e41c7c85081d2638.html</anchorfile>
-      <anchor>aa1cbe06eb6b15f76e41c7c85081d2638</anchor>
-      <arglist>(ValueType &amp;v) const noexcept(noexcept(JSONSerializer&lt; ValueType &gt;::from_json(std::declval&lt; const basic_json_t &amp; &gt;(), v)))</arglist>
-    </member>
-    <member kind="function">
-      <type>ValueType &amp;</type>
-      <name>get_to</name>
-      <anchorfile>classnlohmann_1_1basic__json_ac6fd6c12364425e4007ee4d7ecf9fefd.html</anchorfile>
-      <anchor>ac6fd6c12364425e4007ee4d7ecf9fefd</anchor>
-      <arglist>(ValueType &amp;v) const</arglist>
-    </member>
-    <member kind="function">
-      <type>Array</type>
-      <name>get_to</name>
-      <anchorfile>classnlohmann_1_1basic__json_a85dd41000e4e7751928fffb44ff4aed4.html</anchorfile>
-      <anchor>a85dd41000e4e7751928fffb44ff4aed4</anchor>
-      <arglist>(T(&amp;v)[N]) const noexcept(noexcept(JSONSerializer&lt; Array &gt;::from_json(std::declval&lt; const basic_json_t &amp; &gt;(), v)))</arglist>
-    </member>
-    <member kind="function">
-      <type>auto</type>
-      <name>get_ptr</name>
-      <anchorfile>classnlohmann_1_1basic__json_a85222410e03d8f5c8ff9c78cf9f6b1b6.html</anchorfile>
-      <anchor>a85222410e03d8f5c8ff9c78cf9f6b1b6</anchor>
-      <arglist>() noexcept -&gt; decltype(std::declval&lt; basic_json_t &amp; &gt;().get_impl_ptr(std::declval&lt; PointerType &gt;()))</arglist>
-    </member>
-    <member kind="function">
-      <type>constexpr auto</type>
-      <name>get_ptr</name>
-      <anchorfile>classnlohmann_1_1basic__json_afd99a3902a2bb09a306fb854540ae1dd.html</anchorfile>
-      <anchor>afd99a3902a2bb09a306fb854540ae1dd</anchor>
-      <arglist>() const noexcept -&gt; decltype(std::declval&lt; const basic_json_t &amp; &gt;().get_impl_ptr(std::declval&lt; PointerType &gt;()))</arglist>
-    </member>
-    <member kind="function">
-      <type>auto</type>
-      <name>get</name>
-      <anchorfile>classnlohmann_1_1basic__json_a826e180d2457d114ed4c51f4b0737df8.html</anchorfile>
-      <anchor>a826e180d2457d114ed4c51f4b0737df8</anchor>
-      <arglist>() noexcept -&gt; decltype(std::declval&lt; basic_json_t &amp; &gt;().template get_ptr&lt; PointerType &gt;())</arglist>
-    </member>
-    <member kind="function">
-      <type>constexpr auto</type>
-      <name>get</name>
-      <anchorfile>classnlohmann_1_1basic__json_a014a9be80fef74c22b54d92c2cbd90c6.html</anchorfile>
-      <anchor>a014a9be80fef74c22b54d92c2cbd90c6</anchor>
-      <arglist>() const noexcept -&gt; decltype(std::declval&lt; const basic_json_t &amp; &gt;().template get_ptr&lt; PointerType &gt;())</arglist>
-    </member>
-    <member kind="function">
-      <type>ReferenceType</type>
-      <name>get_ref</name>
-      <anchorfile>classnlohmann_1_1basic__json_a14ddc6e0f6d70296bc81f810254076c5.html</anchorfile>
-      <anchor>a14ddc6e0f6d70296bc81f810254076c5</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function">
-      <type>ReferenceType</type>
-      <name>get_ref</name>
-      <anchorfile>classnlohmann_1_1basic__json_a7f0889072c54f1b899689ed6246238e7.html</anchorfile>
-      <anchor>a7f0889072c54f1b899689ed6246238e7</anchor>
-      <arglist>() const</arglist>
-    </member>
-    <member kind="function">
-      <type>JSON_EXPLICIT</type>
-      <name>operator ValueType</name>
-      <anchorfile>classnlohmann_1_1basic__json_ada1463d8d7ba77865f28f5e83dec7f33.html</anchorfile>
-      <anchor>ada1463d8d7ba77865f28f5e83dec7f33</anchor>
-      <arglist>() const</arglist>
-    </member>
-    <member kind="function">
-      <type>binary_t &amp;</type>
-      <name>get_binary</name>
-      <anchorfile>classnlohmann_1_1basic__json_aab19a246f6bcd27c195bed376cf5e138.html</anchorfile>
-      <anchor>aab19a246f6bcd27c195bed376cf5e138</anchor>
-      <arglist>()</arglist>
-    </member>
-    <member kind="function">
-      <type>const binary_t &amp;</type>
-      <name>get_binary</name>
-      <anchorfile>classnlohmann_1_1basic__json_abbfa5532931abd2d9040cbf4d18a2ca7.html</anchorfile>
-      <anchor>abbfa5532931abd2d9040cbf4d18a2ca7</anchor>
-      <arglist>() const</arglist>
     </member>
     <member kind="function">
       <type>reference</type>
@@ -1942,6 +1921,27 @@
       <anchor>ae01977a9f3c5b3667b7a2929ed91061e</anchor>
       <arglist></arglist>
     </member>
+    <member kind="function">
+      <type></type>
+      <name>json_sax</name>
+      <anchorfile>structnlohmann_1_1json__sax_aac0f445c1173fa731104d93496a7e780.html</anchorfile>
+      <anchor>aac0f445c1173fa731104d93496a7e780</anchor>
+      <arglist>()=default</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>json_sax</name>
+      <anchorfile>structnlohmann_1_1json__sax_a8358c063b2d7222b3aafa62fded04403.html</anchorfile>
+      <anchor>a8358c063b2d7222b3aafa62fded04403</anchor>
+      <arglist>(const json_sax &amp;)=default</arglist>
+    </member>
+    <member kind="function">
+      <type></type>
+      <name>json_sax</name>
+      <anchorfile>structnlohmann_1_1json__sax_a62dae3713ca4914265904e30cd6b6347.html</anchorfile>
+      <anchor>a62dae3713ca4914265904e30cd6b6347</anchor>
+      <arglist>(json_sax &amp;&amp;) noexcept=default</arglist>
+    </member>
     <member kind="function" virtualness="virtual">
       <type>virtual</type>
       <name>~json_sax</name>
@@ -2011,6 +2011,20 @@
       <anchorfile>structnlohmann_1_1json__sax_ad9b253083e0509923ba195136f49face.html</anchorfile>
       <anchor>ad9b253083e0509923ba195136f49face</anchor>
       <arglist>(number_unsigned_t val)=0</arglist>
+    </member>
+    <member kind="function">
+      <type>json_sax &amp;</type>
+      <name>operator=</name>
+      <anchorfile>structnlohmann_1_1json__sax_a1a90dae111cf189ac9ad340a60b199b6.html</anchorfile>
+      <anchor>a1a90dae111cf189ac9ad340a60b199b6</anchor>
+      <arglist>(const json_sax &amp;)=default</arglist>
+    </member>
+    <member kind="function">
+      <type>json_sax &amp;</type>
+      <name>operator=</name>
+      <anchorfile>structnlohmann_1_1json__sax_ac74584e3dc41f2465e69b37d7d2bf694.html</anchorfile>
+      <anchor>ac74584e3dc41f2465e69b37d7d2bf694</anchor>
+      <arglist>(json_sax &amp;&amp;) noexcept=default</arglist>
     </member>
     <member kind="function" virtualness="pure">
       <type>virtual bool</type>
