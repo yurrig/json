@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>json</id>
+        <authors>Niels Lohmann</authors>
+        <version>3.9.1</version>
+        <description>JSON for Modern C++</description>
+        <tags>native nativepackage C++ json</tags>
+    </metadata>
+    <files>
+        <file src="include\**\*" target="build\native\include" />
+        <file src="json.props"        target="build\native"         />
+    </files>
+</package>
